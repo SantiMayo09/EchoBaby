@@ -12,3 +12,5 @@
  - Nicolas Ruiz 
  - Santiago Mayorga
  - Luisa Cortes
+
+Para usarlo, descarguen toda el repositorio y ejecuten el .exe
